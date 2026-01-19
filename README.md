@@ -1,2 +1,2 @@
 # agrimitra
-ai based farmer assistance
+ai based farmer assistance 24/7
